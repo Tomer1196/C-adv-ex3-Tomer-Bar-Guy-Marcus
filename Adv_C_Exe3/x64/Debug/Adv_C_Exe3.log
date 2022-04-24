@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\tomer\source\repos\Adv_C_Exe3\Adv_C_Exe3\Main.c(100,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\tomer\source\repos\Adv_C_Exe3\Adv_C_Exe3\Main.c(111,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Adv_C_Exe3.vcxproj -> C:\Users\tomer\source\repos\Adv_C_Exe3\x64\Debug\Adv_C_Exe3.exe
